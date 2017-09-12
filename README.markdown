@@ -1,6 +1,8 @@
 rhyme-plus
 =====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mapmeld/node-rhyme.svg)](https://greenkeeper.io/)
+
 A rhyming dictionary for your node.js.
 
 example
